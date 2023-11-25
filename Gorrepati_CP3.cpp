@@ -1,5 +1,9 @@
 // Program by Deekshita Gorrepati
 // 3/24/2022
+// Initialize an endless loop with a break option
+// to individually read in a matrix of numbers from one of the ocean depth files
+// and uses 2D arrays to display the deepest point in the ocean,
+// the deepest 2 x 2 area, and the volume of the sea floor section, in cubic meters.
 
 #include <iostream>
 #include <fstream>
