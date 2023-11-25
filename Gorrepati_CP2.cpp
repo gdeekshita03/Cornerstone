@@ -1,5 +1,8 @@
 // Program by Deekshita Gorrepati
 // 3/10/2022
+// This program is a user interface that asks the user for a desired gender and year 
+// and pulls information from BabyNames.txt to report the results accordingly 
+// as well as the number of instances of that name in the data set 
 
 #include <iostream>
 #include <fstream>
